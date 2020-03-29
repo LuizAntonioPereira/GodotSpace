@@ -1,0 +1,6 @@
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\bin\Tools\Godot Space.dll
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\bin\Tools\Godot Space.pdb
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\obj\Tools\Godot Space.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\obj\Tools\Godot Space.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\obj\Tools\Godot Space.dll
+C:\Users\Cliente\Documents\GitHub\GodotSpace\.mono\temp\obj\Tools\Godot Space.pdb
